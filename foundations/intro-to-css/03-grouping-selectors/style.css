@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.one {
+  background-color: black;
+  color: rgb(238, 238, 243);
+  font-size: large;
+}
+.two {
+  background-color: rgb(220, 235, 17);
+  color: black;
+}
+.one,
+.two {
+  padding: 24px;
+  font-family: Arial, Helvetica, "Times roman", sans-serif;
+}
