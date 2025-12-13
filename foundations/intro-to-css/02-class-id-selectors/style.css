@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.hoe {
+  background-color: rgb(209, 96, 134);
+}
+.sheesh {
+  font-style: italics;
+  text-decoration: underline;
+}
+#m1 {
+  font-size: large;
+  color: blue;
+}
+#m2 {
+  background-color: #61d199;
+  font-weight: bold;
+}
